@@ -1,1 +1,4 @@
-Answer the following querstions
+1. What is one new concept you learned from this article?
+I learned good information about Data type (Primitive and Non-Primitive)
+2. What is one thing still unclear or that you want to learn more about?
+actually every things clear 

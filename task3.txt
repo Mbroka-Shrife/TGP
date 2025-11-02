@@ -1,0 +1,11 @@
+Write pseudocode for Simple Temperature Converter
+Instructions
+1. Read temperature in Celsius
+2. Convert to Fahrenheit using F = (C * 9/5) + 32
+3. Print the Fahrenheit value
+__________________________________________________________
+start
+read C 
+let f = ( c* 9/5) + 32
+print f 
+end
